@@ -1,1 +1,1 @@
-# baidu_pictures_get
+# 运行baidu_picture_get.py程序，输入你想要搜索的关键词已经照片数量，即可在video中得到相应数量的图片
